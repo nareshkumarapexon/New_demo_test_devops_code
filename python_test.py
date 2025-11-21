@@ -1,3 +1,4 @@
+print ("Python prime number idetification code:")
 num = int(input("Enter a number: "))
 
 if num > 1:
@@ -7,5 +8,9 @@ if num > 1:
             break
     else:
         print(num, "is a prime number")
+    
 else:
     print(num, "is not a prime number")
+
+# prime numbers python code
+
