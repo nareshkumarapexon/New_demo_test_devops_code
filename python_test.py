@@ -1,4 +1,4 @@
-print ("Python prime numbers idetification code:")
+print ("Python Prime Numbers idetification code:")
 num = int(input("Enter a number: "))
 
 if num > 1:
