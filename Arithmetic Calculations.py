@@ -11,7 +11,7 @@ def multiplication(a,b):
 
 def division(a,b):
     if a==0 or b==0:
-        return f"Not divisible because '0' is in denomenator"
+        return f"Not divisible by '0'"
     else:
         return a/b
 a=int(input("Enter the value a = "))
