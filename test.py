@@ -15,4 +15,5 @@ def color():
 
 # Print each item in random color
 for i in x:
-    print(color() + str(i))
+    
+    print(color() + str(i*i))
