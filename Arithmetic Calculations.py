@@ -27,6 +27,6 @@ elif s==2:
 elif s==3:
     print(f"Result:{a}*{b} =",multiplication(a,b))
 elif s==4:
-    print(f"Result:{a}/{b} =",division(a,B))
+    print(f"Result:{a}/{b} =",division(a,b))
 else:
     print("Enter only assigned number for Arithmetic Opertions which are mentioned above:-).")
