@@ -29,4 +29,4 @@ elif s==3:
 elif s==4:
     print(f"Result:{a}/{b} =",division(a,b))
 else:
-    print("Enter only assigned number for Arithmetic Opertions which are mentioned above:-).")
+    print("Enter only assigned number fr Arithmetic Opertions which are mentioned above:-).")
